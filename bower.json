@@ -1,0 +1,24 @@
+{
+  "name": "templates",
+  "version": "0.0.0",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "pasha"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sass-meyer-reset": "*",
+    "bootstrap-sass-official": "~3.3.3",
+    "breakpoint-sass": "~2.5.0"
+  }
+}
